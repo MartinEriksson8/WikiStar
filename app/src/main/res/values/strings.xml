@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WikiStar</string>
+    <string name="find_featured">Get random featured article</string>
+    <string name="app_description">"Wikipedia has a lot of information. Too much information almost. This is a tool to show you Featured articles that according to Wikipedia are &quot;articles are considered to be some of the best articles Wikipedia has to offer, as determined by Wikipedia\'s editors&quot;"</string>
+</resources>
